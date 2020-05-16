@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Questrial:100,200,300,300i,400,400i,700");
+
+.help-wrapper {
+  background: rgba(255, 255, 255, 0.6);
+  top: 14%;
+  bottom: 10%;
+  left: 6%;
+  right: 6%;
+  position: fixed;
+  text-align: left;
+}
+
+.help-margin {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.help-title {
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 1.5;
+  font-family: "Questrial", sans-serif;
+}
+
+.help-text {
+  color: black;
+  font-weight: normal;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-align: left;
+  font-family: "Questrial", sans-serif;
+}

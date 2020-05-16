@@ -1,0 +1,21 @@
+.history-wrapper{
+  background: rgba(255, 255, 255, 0.3);
+  top: 66px;
+  bottom: 32px;
+  left: 0%;
+  right: 0%;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.account-balance{
+  margin-left: 28px;
+  text-align: left;
+  padding: 12px 12px 0px 0px;
+}
+
+#th{
+  height: 100vh;
+}

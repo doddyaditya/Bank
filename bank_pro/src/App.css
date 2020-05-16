@@ -1,0 +1,21 @@
+body,
+html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("./resource/bg.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
