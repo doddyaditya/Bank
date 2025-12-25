@@ -11,7 +11,7 @@
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "soap": "^0.30.0",
     "universal-cookie": "^4.0.2"
   },
@@ -41,7 +41,7 @@
     "babel-jest": "^24.9.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
-    "eslint": "^6.6.0",
+    "eslint": "^9.39.1",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",
